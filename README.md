@@ -13,7 +13,7 @@ In this module, we used a .csv file with 2,793 rows of data for each strain list
 
 ## Resources  
 - **Software:** VS Code   
-- **Languages:** Python, Jquery, Java Script, CSS, and HTML  
+- **Languages:** Java Script, JQuery, CSS, and HTML  
 - **Data Source:** [ALL_data.csv](https://raw.githubusercontent.com/Shannon-Goddard/grow_data/main/Resources/csv/ALL_data.csv)    
 
 ## Objectives  
