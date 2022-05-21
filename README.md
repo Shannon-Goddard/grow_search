@@ -14,17 +14,16 @@ In this module, we used a .csv file with 2,793 rows of data for each strain list
 ## Resources  
 - **Software:** VS Code   
 - **Languages:** Python, Jquery, Java Script, CSS, and HTML  
-- **Data Source:** [grow-data]()    
+- **Data Source:** [ALL_data.csv](https://raw.githubusercontent.com/Shannon-Goddard/grow_data/main/Resources/csv/ALL_data.csv)    
 
 ## Objectives  
 - Create a filter search from a “real-world” classification dataset and display more information from the user's selection   
 
 ## Summary
 **Check-out this interactive website [here](https://shannon-goddard.github.io/grow_search/)**  
-**Check-out the raw data before it was transformed for this website [here]()**
 
 *Coming soon...*  
-**Check-out the app this data was used with [here]()**
+**Check-out the app this project was used with [here]()**
 
 ![](/Resources/pics/gif.gif)  
 
