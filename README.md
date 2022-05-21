@@ -1,1 +1,32 @@
-# grow_search
+![header_pic](/Resources/pics/header_pic.png)
+ 
+#### Table of Contents  
+
+[Project Overview](#project-overview)  
+[Resources](#resources)  
+[Objectives](#objectives)  
+[Summary](#summary)  
+[Limitations](#limitations)  
+  
+## Project Overview  
+In this module, we used a .csv file with 2,793 rows of data for each strain listed on the wikileaf website and added key data points needed for each strain to allow concise information for the user and filtering for future projects, bringing the data line to 36,312. Using Python, JQuery, Java Script, CSS, and HTML to create a filter search with the transformed data.
+
+## Resources  
+- **Software:** VS Code   
+- **Languages:** Python, Jquery, Java Script, CSS, and HTML  
+- **Data Source:** [grow-data]()    
+
+## Objectives  
+- Create a filter search from a “real-world” classification dataset and display more information from the user's selection   
+
+## Summary
+**Check-out this interactive website [here]()**  
+**Check-out the raw data for this website [here]()**
+
+*Coming soon...*  
+**Check-out the app this data was used with [here]()**
+
+![](/Resources/pics/gif.gif)  
+
+## Limitations  
+This site and content made available through this site are for educational and informational purposes only. This site may contain copyrighted material owned by a third party, the use of which has not always been specifically authorized by the copyright owner. Notwithstanding a copyright owner's rights under the Copyright Act, Section 107 of the copyright act allows limited use of copyright material without requiring permission from the rights holders, for purposes such as education, criticism, comment, news reporting, teaching, scholarship, and research. These so-called "fair uses" are permitted even if the use of the work would otherwise be infringing.If you wish to use copyright material published on this site for your own purposes that go beyond fair use, you must obtain permission from the copyright owner. We recommend you seek legal council if you have any questions at this point.If you believe any content on this site violates your intellectual property or other rights, please notify us by email to []().
