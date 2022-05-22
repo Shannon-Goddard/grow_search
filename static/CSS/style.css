@@ -1,7 +1,30 @@
-/* Container holding the search image and the text */
+/*font size*/
+h1 {
+  font-size: 5.0vw;
+}
+h2 {
+  font-size: 4.0vw;
+}
+h3 {
+  font-size: 3.0vw;
+}
+p {
+  font-size: 2.0vw;
+}
+/* Container holding the logo image*/
 .container {
-  position: relative;
+  position: sticky;
+  top: 1.0vh;
+  width: 100%;
   text-align: center;
+  color: black;
+}
+/* Container holding the search image and the text */
+.container-fluid {
+  width: 100%;
+  inline-size: 100%;
+  position: relative;
+  text-align: left;
   color: black;
 }
 #myInput {
@@ -9,7 +32,7 @@
   background-position: 10px 12px; /* Position the search icon */
   background-repeat: no-repeat; /* Do not repeat the icon image */
   width: 100%; /* Full-width */
-  font-size: 16px; /* Increase font-size */
+  font-size: 2.0vw; /* Increase font-size */
   padding: 12px 20px 12px 40px; /* Add some padding */
   border: 1px solid #ddd; /* Add a grey border */
   margin-bottom: 12px; /* Add some space below the input */
@@ -28,7 +51,7 @@
   background-color: white; /* White background color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
-  font-size: 18px; /* Increase the font-size */
+  font-size: 2.0vw; /* Increase the font-size */
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
@@ -37,7 +60,7 @@
 }
 /* user selection data css*/
 .post-container {
-  width:60%;
+  width:100%;
   float: right;
   top:0;
   left:0;
@@ -52,54 +75,44 @@
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  font-size: 100%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 .more_info {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  font-size: 100%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 .post-title {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  font-size: 300%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 #THC {
   font-weight: 900;
-  font-size: 200%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 #CBD {
   font-weight: 900;
-  font-size: 200%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 #Sativa {
   font-weight: bold;
-  font-size: 150%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 #Indica {
   font-weight: bold;
-  font-size: 150%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 #Hybrid {
   font-weight: bold;
-  font-size: 150%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 #Grow {
   font-weight: bold;
-  font-size: 150%;
   text-shadow: 2px 2px rgb(0 0 0 / 0.2);
 }
 .post-IorS {
   font-weight: bold;
-  font-size: 200%;
 }
