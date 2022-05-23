@@ -6,6 +6,8 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <style>input{display: block;margin-left: 50px}</style>
         <title>Grow App</title>
+        <!-- Load an icon library -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
         <link rel="stylesheet" href="static/CSS/style.css"/>
     </head>
@@ -2832,12 +2834,13 @@
 </div>
 </div>
 </div>
-<div class="navbar" id="myNavbar">
-    <a href="#home">Home</a>
-    <a href="index.html">Search</a>
-    <a href="#my_grow">My grow</a>
-    <a href="#tools">Tools</a>
-    <a href="javascript:void(0);" class="icon" onclick="navFunction()">&#9776;</a>
+<div class="navbar">
+    <a href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+    <a class="active" href="#"><i class="fa fa-fw fa-search"></i> Search</a>
+    <a href="#"><i class="fa fa-filter"></i> Filter</a>
+    <a href="#"><i class="fa fa-leaf"></i> My Grow</a>
+    <a href="#"><i class="fa fa-cogs"></i> Tools</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()"></a>
   </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
