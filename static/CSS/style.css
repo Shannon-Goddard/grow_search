@@ -8,6 +8,9 @@ h2 {
 h3 {
   font-size: 3.0vw;
 }
+h4 {
+  font-size: 2.5vw;
+}
 p {
   font-size: 2.0vw;
 }
@@ -17,7 +20,6 @@ p {
   top: 1.0vh;
   width: 100%;
   text-align: center;
-  color: black;
 }
 /* Container holding the search image and the text */
 .container-fluid {
@@ -28,28 +30,26 @@ p {
   color: black;
 }
 #myInput {
-  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-  background-position: 10px 12px; /* Position the search icon */
-  background-repeat: no-repeat; /* Do not repeat the icon image */
+  box-shadow: 0 0.3vw 1.0vw rgb(0 0 0 / 0.2);
   width: 100%; /* Full-width */
   font-size: 2.0vw; /* Increase font-size */
-  padding: 12px 20px 12px 40px; /* Add some padding */
-  border: 1px solid #ddd; /* Add a grey border */
-  margin-bottom: 12px; /* Add some space below the input */
+  padding: 1.0vw 1.0vw 1.0vw 1.0vw; /* Add some padding */
+  border: 0.1vw solid #ddd; /* Add a grey border */
+  margin-bottom: 1.0vw; /* Add some space below the input */
 }
 #myUL {
   /* Remove default list styling */
   display: none;
-  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  box-shadow: 0 0.3vw 1.0vw rgb(0 0 0 / 0.2);
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 #myUL li a {
-  border: 1px solid #ddd; /* Add a border to all links */
-  margin-top: -1px; /* Prevent double borders */
+  border: 0.1vw solid #ddd; /* Add a border to all links */
+  margin-top: -1.0vw; /* Prevent double borders */
   background-color: white; /* White background color */
-  padding: 12px; /* Add some padding */
+  padding: 1.0vw; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 2.0vw; /* Increase the font-size */
   color: black; /* Add a black text color */
@@ -61,57 +61,58 @@ p {
 /* user selection data css*/
 .post-container {
   width:100%;
-  float: right;
-  top:0;
-  left:0;
+  inline-size: 100%;
+  position: relative;
+  margin: 1.0vw 1.0vw 1.0vw 1.0vw;
  }
 #image {
   float: left;
   display: none;
-  margin: 10px 10px 0 0;
-  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin: 1.0vw 1.0vw 0.0vw 0.0vw;
+  box-shadow: 0 0.3vw 1.0vw rgb(0 0 0 / 0.2);
 }
 .info {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 .more_info {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 .post-title {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  margin-bottom: 0.0vh;
 }
 #THC {
   font-weight: 900;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #CBD {
   font-weight: 900;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Sativa {
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Indica {
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Hybrid {
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Grow {
   font-weight: bold;
-  text-shadow: 2px 2px rgb(0 0 0 / 0.2);
+  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 .post-IorS {
   font-weight: bold;
