@@ -83,7 +83,7 @@ p {
   width:100%;
   inline-size: 100%;
   position: relative;
-  margin: 1.0vw 1.0vw calc(10.0vh + 0.5vh) 1.0vw;
+  margin: 1.0vw 1.0vw calc(16px + 0.5vh) 1.0vw;
  }
 #image {
   float: left;
