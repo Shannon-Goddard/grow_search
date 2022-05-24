@@ -85,7 +85,7 @@ p {
   width:100%;
   inline-size: 100%;
   position: relative;
-  padding: 2.0vmin 2.0vmin calc(20px + 5.0vmin) 2.0vmin;
+  padding: 2.0vmin 2.0vmin calc(20px + 10.0vmin) 2.0vmin;
  }
 #image {
   float: left;
