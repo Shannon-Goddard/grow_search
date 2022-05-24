@@ -127,25 +127,23 @@ p {
   bottom: 0;
   width: 100%;
 }
-
-/* Navbar links */
+/* Style the links inside the navigation bar */
 .navbar a {
   float: left;
+  display: block;
+  color: #808080;
   text-align: center;
-  padding: 1.0vmin;
-  color: white;
+  padding: 1.0vmin 1.0vmin;
   text-decoration: none;
   font-size: 1.5vmax;
 }
-
 /* Navbar links on mouse-over */
 .navbar a:hover {
-  background-color: #2F4F4F;
+  color: #04AA6D;
 }
-
-/* Current/active navbar link */
-.active {
-  background-color: #04AA6D;
+/* Add a green background color to the active link */
+.navbar a.active {
+  color: white;
 }
 /* Hide the link that should open and close the navbar on small screens */
 .navbar .icon {
@@ -159,7 +157,6 @@ p {
     display: block;
   }
 }
-
 /* The "responsive" class is added to the navbar with JavaScript when the user clicks on the icon. This class makes the navbar look good on small screens (display the links vertically instead of horizontally) */
 @media screen and (max-width: 600px) {
   .navbar.responsive a.icon {
