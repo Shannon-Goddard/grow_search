@@ -12110,7 +12110,7 @@ var data = [
     Indica:"",
     Hybrid:"",
     Sativa: "70% SATIVA",
-    Grow: "63",
+    Grow: "10",
     logo: "static/images/Jack's_Dream.jpg"
   },
   {
@@ -16915,12 +16915,12 @@ var data = [
     strain: "Coconut Oil",
     info: "Touted as one of the most popular supplements in today’s society, coconut oil is a big deal. Cannabis with the same name is equally as important, although much harder to find. Coconut Oil was crafted by Taste Budz as a sativa-dominant phenotype of SFV OG. Her buds smelled so strongly of coconut that breeders couldn’t name her anything else.",
     more_info: "When we talk about ideal strains for all users, this one is it. A 15% THC average and mild effects can be just as ideal for the first-timer as for the experienced smoker. Buds are a deep forest green tone that tend to be rather dense, yet a sparkling coat of amber trichomes helps to lighten up the visual. As mentioned, this strain’s flavors and aromas are strikingly similar to coconut with hints of tropical fruit thrown into the mix.",
-    THC: "",
+    THC: "19",
     CBD: "0",
     Indica:"",
     Hybrid:"",
-    Sativa: "",
-    Grow: "",
+    Sativa: "70% SATIVA",
+    Grow: "10",
     logo: "static/images/Coconut_Oil.jpg"
   },
   {

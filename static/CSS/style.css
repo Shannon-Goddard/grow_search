@@ -83,7 +83,8 @@ p {
   width:100%;
   inline-size: 100%;
   position: relative;
-  margin: 1.0vw 1.0vw calc(16px + 0.5vh) 1.0vw;
+  margin: 1.0vw 1.0vw calc(18px + 2.0vmin) 1.0vw;
+  padding-right: 2.0vw;
  }
 #image {
   float: left;
@@ -96,12 +97,14 @@ p {
   overflow-wrap: break-word;
   font-weight: bold;
   text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  
 }
 .more_info {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
   text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+ 
 }
 .post-title {
   inline-size: 100%;
