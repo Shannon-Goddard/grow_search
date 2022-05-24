@@ -80,62 +80,60 @@ p {
 }
 /* user selection data css*/
 .post-container {
+  text-align: justify;
+  text-justify: inter-word;
   width:100%;
   inline-size: 100%;
   position: relative;
-  margin: 1.0vw 1.0vw calc(18px + 2.0vmin) 1.0vw;
-  padding-right: 2.0vw;
+  padding: 2.0vmin 2.0vmin calc(20px + 5.0vmin) 2.0vmin;
  }
 #image {
   float: left;
   display: none;
-  margin: 1.0vw 1.0vw 0.0vw 0.0vw;
-  box-shadow: 0 0.3vw 1.0vw rgb(0 0 0 / 0.2);
+  margin: 1.0vmin 1.0vmin 0.0vmin 0.0vmin;
+  -webkit-filter: drop-shadow(5px 5px 5px rgb(0 0 0 / 0.2));
+  filter: drop-shadow(5px 5px 5px rgb(0 0 0 / 0.2));
 }
 .info {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
-  
 }
 .more_info {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
- 
 }
 .post-title {
   inline-size: 100%;
   overflow-wrap: break-word;
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
   margin-bottom: 0.0vh;
 }
 #THC {
   font-weight: 900;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #CBD {
   font-weight: 900;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Sativa {
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Indica {
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Hybrid {
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 #Grow {
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw rgb(0 0 0 / 0.2);
+  text-shadow: 0.0vw 0.3vw 0.3vw rgb(0 0 0 / 0.2);
 }
 .post-IorS {
   font-weight: bold;
