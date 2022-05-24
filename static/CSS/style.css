@@ -20,19 +20,19 @@ HTML, BODY {
 }
 /*font size*/
 h1 {
-  font-size: 5.0vw;
+  font-size: calc(16px + 3.0vmin);
 }
 h2 {
-  font-size: 4.0vw;
+  font-size: calc(16px + 2.0vmin);
 }
 h3 {
-  font-size: 3.0vw;
+  font-size: calc(16px + 1.0vmin);
 }
 h4 {
-  font-size: 2.5vw;
+  font-size: calc(16px + 0.5vmin);
 }
 p {
-  font-size: 2.0vw;
+  font-size: 16px;
 }
 /* Container holding the logo image*/
 .center {
