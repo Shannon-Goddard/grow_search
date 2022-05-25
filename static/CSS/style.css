@@ -90,7 +90,7 @@ p {
 #image {
   float: left;
   display: none;
-  margin: 1.0vmin 1.0vmin 0.0vmin 0.0vmin;
+  margin: 1.0vmin 2.0vmin 0.0vmin 0.0vmin;
   -webkit-filter: drop-shadow(5px 5px 5px rgb(0 0 0 / 0.2));
   filter: drop-shadow(5px 5px 5px rgb(0 0 0 / 0.2));
 }
