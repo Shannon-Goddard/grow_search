@@ -60,7 +60,7 @@ $("li").on("click" , "a" , function(){
     document.getElementById("myUL").style.display = "none";
   }
 });
-// Toggle between adding and removing the "responsive" class to the navbar when the user clicks on the icon //
+//Toggle between adding and removing the "responsive" class to the navbar when the user clicks on the icon//
 function navFunction() {
   var x = document.getElementById("myNavbar");
   if (x.className === "navbar") {
