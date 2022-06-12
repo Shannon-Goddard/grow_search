@@ -11418,7 +11418,7 @@ var data = [
     more_info: "Black Ice is marked by small to medium-sized nuggets of densely-packed leaves. The leaves themselves are a mossy green and are threaded through with vibrant orange hairs (which are actually pistils, structures meant to catch pollen from fertilizing male plants). Frequently, phenotypes of this strain also have patches of dark purple in their leaves; these hues come about when anthocyanin pigments in the plant’s genetics are stimulated by colder than average temperatures during the growing process. Finally, Black Ice has a thick coating of white trichomes that rivals even the resin production of parent strain White Widow. These trichomes make the buds super-sticky to the touch and give them a slight white sheen, perhaps inspiring the “ice” in this strain’s name.",
     THC: "24",
     CBD: "0",
-    Indica:"Black Ice",
+    Indica:"90% INDICA",
     Hybrid:"",
     Sativa: "",
     Grow: "9",
@@ -12317,7 +12317,7 @@ var data = [
     CBD: "0",
     Indica:"",
     Hybrid:"",
-    Sativa: "Asian Fantasy",
+    Sativa: "100% SATIVA",
     Grow: "9",
     logo: "static/images/Asian_Fantasy.jpg"
   },
@@ -15162,7 +15162,7 @@ var data = [
     more_info: "Pura Vida buds are small and piecey which has them often confused for shake by unsuspecting customers. These incredibly small buds are not anything great to look at, but they pack quite the kick. They are mint green in color, with brown hairs winding throughout their tiny surface area. The surface of the buds are coated in a fine layer of amber-colored trichomes, giving the buds what little bit of bag appeal they can muster.",
     THC: "30",
     CBD: "0",
-    Indica:"Pura Vida",
+    Indica:"70% INDICA",
     Hybrid:"",
     Sativa: "",
     Grow: "9",
@@ -19455,7 +19455,7 @@ var data = [
     Indica:"70% INDICA",
     Hybrid:"",
     Sativa: "",
-    Grow: "63",
+    Grow: "9",
     logo: "static/images/Blueberry_Pancakes.jpg"
   },
   {
@@ -20038,7 +20038,7 @@ var data = [
     THC: "0",
     CBD: "0",
     Indica:"",
-    Hybrid:"Apricot Jelly",
+    Hybrid:"0% HYBRID",
     Sativa: "",
     Grow: "9",
     logo: "static/images/Apricot_Jelly.jpg"
@@ -27138,7 +27138,7 @@ var data = [
     Indica:"",
     Hybrid:"",
     Sativa: "60% SATIVA",
-    Grow: "63",
+    Grow: "9",
     logo: "static/images/Nightmare_Cookies.jpg"
   },
   {
@@ -34496,7 +34496,7 @@ var data = [
     Indica:"80% INDICA",
     Hybrid:"",
     Sativa: "",
-    Grow: "58",
+    Grow: "8",
     logo: "static/images/Purple_Glue.jpg"
   },
   {
@@ -35588,7 +35588,7 @@ var data = [
     Indica:"",
     Hybrid:"0% HYBRID",
     Sativa: "",
-    Grow: "60",
+    Grow: "9",
     logo: "static/images/Tangieland.jpg"
   },
   {
