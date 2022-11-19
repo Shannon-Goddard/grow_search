@@ -5,8 +5,7 @@
 [Project Overview](#project-overview)  
 [Resources](#resources)  
 [Objectives](#objectives)  
-[Summary](#summary)  
-[List of Task](#list-of-task)  
+[Summary](#summary)    
 [Limitations](#limitations)  
   
 ## Project Overview  
@@ -21,7 +20,7 @@ In this module, we used a .csv file with 2,793 rows of data for each strain list
 - Create a filter search from a “real-world” classification dataset and display more information from the user's selection   
 
 ## Summary
-**Check-out this code out on an interactive website [here](https://shannon-goddard.github.io/grow_search/)**  
+**Check this code out on an interactive website [here](https://shannon-goddard.github.io/grow_search/)**  
  
 **Check-out the website this project was used with [here](https://www.loyal9.app/)**
 
